@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="313a1574-ece0-4b53-bdb5-3eb6e67e41c1" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/函数递归 来实现数字累加.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字累加.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/斐波那契数列.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/递归函数调用流程.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斐波那契数列.go" beforeDir="false" afterPath="$PROJECT_DIR$/斐波那契数列.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/斐波那契数列.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="266">
+              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -119,8 +116,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="697" />
-    <option name="y" value="57" />
+    <option name="x" value="640" />
+    <option name="y" value="86" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -170,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 函数递归 来实现数字累加.go">
+  <component name="RunManager" selected="Go Build.go build 斐波那契数列.go">
     <configuration name="go build 函数递归 来实现数字累加.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="黑马GO" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -192,6 +189,30 @@
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/无参无返回著.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 斐波那契数列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="黑马GO" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/斐波那契数列.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 普通函数的调用流程.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="黑马GO" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/普通函数的调用流程.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 普通参数列表.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="黑马GO" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/普通参数列表.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -258,24 +279,9 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 普通函数的调用流程.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="黑马GO" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/普通函数的调用流程.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 普通参数列表.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="黑马GO" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/普通参数列表.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 斐波那契数列.go" />
         <item itemvalue="Go Build.go build 函数递归 来实现数字累加.go" />
         <item itemvalue="Go Build.go build 多个返回值22.go" />
         <item itemvalue="Go Build.go build 无参无返回著.go" />
@@ -283,7 +289,7 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="558" y="46" width="784" height="832" extended-state="0" />
+    <frame x="512" y="69" width="784" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.13911846" />
@@ -583,8 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/斐波那契数列.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state relative-caret-position="266">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
